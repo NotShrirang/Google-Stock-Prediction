@@ -1,2 +1,2 @@
 # Google-Stock-Prediction
-Simple stock predictor
+Simple stock predictor using Linear Regression
